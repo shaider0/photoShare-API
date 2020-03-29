@@ -1,9 +1,22 @@
-Front End Links
-Organization: https://github.com/pic-bucket
-Front-end Repo: https://github.com/pic-bucket/Pic-Bucket
-Deployed Link: https://pic-bucket.github.io/Pic-Bucket/
-Heroku app: https://gentle-spire-82596.herokuapp.com/
+# PhotoShare
+-------------------------
+PhotoShare is a full-stack web application built by a team of 4 developers as part of General Assembly's Software Engineering Immersive Program. This is a simple photo sharing application which allows users to log in and upload photos into a photo gallery. Images are stored in an AWS S3 bucket.
 
-Organization May 14 2019 not-your-grandma-s-dev-team
+### Technologies Used
+-----------------------
+###### Front end:
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* jQuery
+* Handlebars
 
-Owners: London19 rpinales87 selcuktoklucu shaider0
+###### Back end:
+* AWS S3
+* Express
+* MongoDB
+* Mongoose
+* Node.js
+* Multer
+* Passport
